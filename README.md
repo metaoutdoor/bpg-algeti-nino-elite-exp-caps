@@ -2,6 +2,8 @@
 
 Merged font of BPG Algeti (Georgian lowercase chars) and BPG Nino Elite Exp Caps (Georgian uppercase chars).
 
+**Note:** This is made for our personal needs, so all other chars except `10A0-10FF,1C90-1CBF` unicode range is removed from fonts to reduce size.
+
 ## Installation
 
 ### Install With [NPM](https://www.npmjs.com):

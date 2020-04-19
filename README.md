@@ -1,28 +1,18 @@
-# BPG Algeti
+# BPG Algeti + BPG Nino Elite Exp Caps
 
-[![Bower](https://img.shields.io/bower/v/bpg-algeti.svg)](http://bower.io/search/?q=bpg-algeti)
-[![npm](https://img.shields.io/npm/v/bpg-algeti.svg)](https://www.npmjs.com/package/bpg-algeti)
-[![Author](https://img.shields.io/badge/Font_Author-Besarion_Gugushvili-blue.svg)](https://github.com/web-fonts/bpg-algeti)
-
-BPG Algeti Web-Font Package.
+Merged font of BPG Algeti (Georgian lowercase chars) and BPG Nino Elite Exp Caps (Georgian uppercase chars).
 
 ## Installation
-
-### Install With [Bower](http://bower.io):
-
-```
-$ bower install bpg-algeti --save
-```
 
 ### Install With [NPM](https://www.npmjs.com):
 
 ```
-$ npm install bpg-algeti --save
+$ npm install metaoutdoor/bpg-algeti-nino-elite-exp-caps --save
 ```
 
 ### Install Manualy
 
-* [Downloading Package Archive](https://github.com/web-fonts/bpg-algeti/archive/master.zip)
+* [Downloading Package Archive](https://github.com/metaoutdoor/bpg-algeti-nino-elite-exp-caps/archive/master.zip)
 * Place `/css/` and `/fonts/` directories to your project.
 
 ## Usage
@@ -30,21 +20,26 @@ $ npm install bpg-algeti --save
 Place the following code between `<head>...</head>` tag in your HTML:
 
 ```html
-<link rel="stylesheet" href="/bower_components/bpg-algeti/css/bpg-algeti.css">
+<link rel="stylesheet" href="bpg-algeti-nino-elite-exp-caps/css/bpg-algeti-nino-elite-exp-caps.css">
 ```
 
 Place the following code to your stylesheets, or use another css selector instead of `body`.
 
 ```css
 body {
-    font-family: 'BPG Algeti', sans-serif;
+    font-family: 'BPG Algeti Nino Elite Exp Caps', sans-serif;
 }
 ```
 
 ## Preview
 
-[Preview BPG Algeti in Browser](http://web-fonts.ge/bpg-algeti)
+- [Preview BPG Algeti in Browser](http://web-fonts.ge/bpg-algeti)
+- [Preview BPG Nino Elite Exp Caps in Browser](http://web-fonts.ge/nino-elite-exp-caps)
 
 ## Licence
 
-The BPG Algeti package is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT), but the Font files are licenced under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+The BPG Algeti Nino Elite Exp Caps package is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT), but the Font files are licenced under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+## Thanks
+
+Thanks to [web-fonts](https://github.com/web-fonts) team for both font packages.

@@ -1,14 +1,14 @@
 {
-  "name": "bpg-algeti",
-  "version": "1.0.0",
-  "description": "BPG Algeti Web-Font Package",
-  "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-algeti"],
-  "main": "css/bpg-algeti.css",
-  "homepage": "https://github.com/web-fonts/bpg-algeti",
-  "author": "Lado Lomidze <lado.lomidze@gmail.com>",
+  "name": "bpg-algeti-nino-elite-exp-caps",
+  "version": "2.0.1",
+  "description": "BPG Algeti + BPG Nino Elite Exp Caps Web-Font Package",
+  "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-algeti-nino-elite-exp-caps"],
+  "main": "css/bpg-algeti-nino-elite-exp-caps.css",
+  "homepage": "https://github.com/metaoutdoor/bpg-algeti-nino-elite-exp-caps",
+  "author": "Levan Velijanashvili <me@stichoza.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/web-fonts/bpg-algeti.git"
+    "url": "https://github.com/metaoutdoor/bpg-algeti-nino-elite-exp-caps.git"
   },
   "licenses": [
     {

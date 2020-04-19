@@ -1,7 +1,7 @@
 {
   "name": "bpg-algeti-nino-elite-exp-caps",
   "description": "BPG Algeti + BPG Nino Elite Exp Caps Web-Font Package",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-algeti"],
   "main": [
     "css/bpg-algeti-nino-elite-exp-caps.css"
